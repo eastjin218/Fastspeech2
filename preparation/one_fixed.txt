@@ -1,0 +1,997 @@
+101_0001|그는 괜찮은 척하려고 애쓰는 것 같았다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0002|그녀의 사랑을 얻기 위해 애썼지만 헛수고였다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0003|용돈을 아껴 써라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0004|그는 아내를 많이 아낀다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0005|그 애 전화번호 알아?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0006|차에 대해 잘 아세요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0007|거기 도착하면 나한테 알려 줘.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0008|그들은 내가 시험에 떨어졌다고 알려 왔다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0009|나는 살아오면서 감기를 앓은 적이 한 번도 없다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0010|사흘 동안 심하게 몸살을 앓았어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0011|요즘 공부가 안돼요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0012|장사가 잘 안돼서 우울해.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0013|아무 것도 먹지 않으면 죽게 되어 있다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0014|그녀는 이유를 묻지 않고 돈을 빌려 주었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0015|내가 아기를 안고 있을게.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0016|엄마는 말없이 나를 꼭 안아 주셨다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0017|자리에 앉으세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0018|한 여자가 내 옆에 앉았다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0019|일일사에 전화를 해서 번호를 알아보시지 그러세요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0020|내가 누군지 알아보겠니?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0021|그는 절대 다른 사람의 의견을 받아들이지 않는다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0022|아이들도 언젠가는 그녀를 엄마로 받아들일 거야.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0023|어디에서 영어를 배우셨어요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0024|동료에게서 수화를 배우고 있습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0025|이거 다른 걸로 바꿀 수 있을까요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0026|색깔을 바꾸는 게 나을 거 같아.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0027|소영이 좀 바꿔 주세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0028|눈이 얼음으로 바뀌었어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0029|핸드폰이 네 거랑 바뀐 거 같아.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0030|그 차는 들판에 버려진 채 발견됐다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0031|이번 달 초에 상어떼가 해안가에서 발견됐다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0032|오타를 발견하시는 분께 사례하겠습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0033|결국 그의 개가 그의 시신을 발견했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0034|정신분석학은 이십 세기에 급격히 발전했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0035|한국어 실력이 날이 갈수록 발전하는 것을 보니 기쁩니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0036|죄송하지만 제 이름을 밝힐 수는 없어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0037|정전이 되어 촛불을 밝혔다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0038|모두가 시험에 통과했음을 발표하게 되어 기쁘게 생각합니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0039|그 밴드는 첫 음반을 발표한 직후에 해체했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0040|화재가 발생하지 않도록 조심해라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0041|어제 일본에서 태풍이 발생했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0042|돌고래는 지능이 발달했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0043|이 지역에는 농업이 발달했어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0044|그녀는 내 제안에 반대했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0045|저는 무력 사용을 반대합니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0046|저희 회사에 방문해 주셔서 감사드립니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0047|너는 브레이크를 너무 세게 밟아.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0048|어떤 남자가 지하철에서 내 발을 밟고 모른 척했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0049|그녀는 호기심으로 가득찬 눈으로 나를 바라보았다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0050|이 문제는 제 삼 자의 시각에서 바라볼 필요가 있어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0051|저한테 너무 많은 걸 바라지 마세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0052|빨리 나으시길 바랍니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0053|입술에 침이나 바르고 말해.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0054|선크림을 발랐어야지.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0055|나는 생일 선물로 책을 받았다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0056|신용 카드를 받나요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0057|스트레스 받는 일 있어?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0058|어떻게 그렇게 돈을 버셨어요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0059|한 달에 삼백만 원을 법니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0060|입을 벌려 보세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0061|지하철에서 다리를 벌리고 앉지 마라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0062|벽 사이에 벌어진 틈이 있어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0063|그 법안을 놓고 말다툼이 벌어졌어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0064|담배 꽁초를 여기에 버리지 마세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0065|돈을 다 써 버렸어요|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0066|내년 아버지 환갑 때 잔치를 벌일 거야.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0067|오늘 아침 아내랑 말다툼을 벌였어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0068|가난에서 벗어나려면 습관부터 바꿔라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0069|복잡한 도시 지역을 벗어나니 참 좋군요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0070|외투 벗으실래요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0071|신발이 너무 꽉 껴서 벗을 수가 없어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0072|아침 햇빛이 비치는 걸 보니 상쾌하군.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0073|커튼 너머에 누군가의 그림자가 비쳤다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0074|램프가 그의 작품을 비추게 배치되어 있었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0075|아침마다 내 얼굴을 거울에 비춰 봐요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0076|금고는 이미 비어 있었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0077|이 자리는 비었습니까?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0078|우리는 서로 답을 비교해 보았다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0079|부모가 저지르는 큰 실수 중 하나는 자기 아이를 다른 집 아이와 비교하는 것이다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0080|이틀 동안 차를 빌리고 싶은데요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0081|아내에게서 돈을 빌린다는 것은 좀 이상해요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0082|다이아몬드가 눈부시게 빛나고 있었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0083|모든 창에서 촛불이 반짝반짝 빛나고 있었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0084|영화 보러 갈까?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0085|오늘 우연히 길에서 그 여자를 봤어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0086|제가 해 볼게요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0087|어디선가 뵌 분 같아요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0088|지난번에 뵌 후 오랜만에 뵙습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0089|그거 맛있어 보이네.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0090|그는 나이에 비해 정말 젊어 보인다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0091|그녀가 나에게 사진 몇 장을 보여 주었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0092|주민등록증을 보여 주시겠어요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0093|김치가 맛이 없어서 볶았어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0094|고기를 기름에 볶지 마라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0095|이 소포를 뉴욕으로 보내고 싶은데요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0096|선생님께 한 부 보내 드리겠습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0097|휴가 잘 보내세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0098|그녀는 짐 하나하나에 이름표를 붙였다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0099|침으로 편지 봉투에 우표를 붙이지 마세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0100|우리는 파티 준비를 위해 풍선을 불었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0101|바람이 많이 불어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0102|경찰 좀 불러 주세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0103|사람들은 그를 게으른 천재라고 부른다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0104|노래 한 곡 부르세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0105|여행사에 예약을 부탁하는 게 어때?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0106|엄마한테 도와달라고 부탁해 봐.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0107|냄비에 물을 부어라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0108|우유를 좀 부어 봐.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0109|신발 밑창에 껌이 붙었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0110|저는 운전면허시험에 세 번 만에 붙었어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0111|밤이 되면 그녀는 괴물로 변한다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0112|전혀 안 변하셨네요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0113|그는 점차 냉혹한 지도자로 변화했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0114|지구가 빠르게 변화하고 있다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0115|그는 공을 차는 척하면서 상대 선수를 찼다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0116|그녀는 칠 년간 사귄 남자 친구를 차 버리고 딴 남자랑 결혼했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0117|소지품을 잘 챙기세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0118|엄마는 아빠를 엄청 챙기신다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0119|빈칸을 채우시오.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0120|기름을 가득 채워 주세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0121|제 잔에는 물을 반만 채워 주세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0122|인터넷 찾아봤어?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0123|다 찾아봤지만 찾을 수가 없어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0124|내일 댁으로 찾아가겠습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0125|내일까지 짐을 찾아가셔야 해요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0126|도움이 필요하면 나를 찾아와.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0127|은행에서 돈 찾아와야 해.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0128|많은 배우들이 그 시상식에 참석하지 않았다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0129|갑자기 시부모님이 오셔서 모임에 참석하지 못했어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0130|웃음을 참을 수가 없었어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0131|더 이상은 못 참아.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0132|엄마랑 아빠는 항상 같이 상을 차리세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0133|얼른 기운 차리셔야죠.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0134|교차로에서 저를 찾을 수 있을 거예요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0135|이 책을 찾고 있어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0136|아기는 소리가 나는 쪽을 쳐다본다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0137|그런 식으로 사람을 빤히 쳐다보지 마.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0138|나는 일 년에 한 번 우리 집 화장실을 청소한다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0139|창문은 뭘로 청소하나요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0140|그는 내 얼굴을 쳐서 자기 손목을 삐었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0141|테니스를 치다가 발목을 삐었어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0142|오늘 시험 잘 쳤어요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0143|이번 주말 내 생일에 너를 초대하고 싶은데.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0144|그녀는 나를 자기 집으로 초대했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0145|낯선 사람들 앞에서 춤을 추는 건 나한테는 정말 어려운 일이야.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0146|그녀와 나는 음악에 맞추어 탱고를 췄다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0147|결혼 축하해!|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0148|할아버지의 회갑을 축하하는 잔치를 열었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0149|그 사람은 한 시간 전에 역으로 출발했어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0150|이 역에서 출발하는 사람 중에는 군인이 많아.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0151|이 기차는 부산을 세 시에 출발합니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0152|지금 춤출 기분이 아냐.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0153|오늘 밤에 춤추러 갈까요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0154|소주 다섯 병에 결국 취하고 말았다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0155|나 안 취했어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0156|내가 한 말 취소하겠어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0157|죄송하지만 예약을 취소하고 싶어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0158|어제 농구를 하다 코를 다쳤어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0159|어쩌다 다친 거야?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0160|이 문은 잘 안 닫혀요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0161|컴퓨터가 멈춰서 창이 닫히지 않아.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0162|카드를 단말기 위에 대세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0163|그렇게 먹어 대니까 살이 안 빠지지.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0164|질문에 대답하세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0165|어른들에게는 예나 아니요라고 대답해야 합니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0166|그녀는 나를 딸처럼 대한다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0167|이 문제에 대해 말해 볼 사람?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0168|그 개는 낯선 사람이 다가가면 짖는다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0169|내가 그녀에게 다가가자 그녀의 얼굴이 창백해졌다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0170|폭풍이 다가오자 하늘이 어두워졌다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0171|그녀가 내게 다가왔다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0172|그는 힘이 다할 때까지 계속 소리쳤다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0173|부모님을 실망시키지 않기 위해 최선을 다하겠다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0174|자기 전에 이 닦는 거 잊지 마라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0175|바닥을 닦아라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0176|블라우스에 브로치를 달았다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0177|태극기를 다세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0178|엄마가 돌아가신 후 모든 것이 달라졌어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0179|저는 아내 덕분에 많이 달라졌습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0180|그는 결승점을 향해 전속력으로 달렸다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0181|그 오토바이는 시속 육십 킬로로 달렸어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0182|포도가 나무에 달려 있었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0183|너한테 달렸어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0184|아내를 업고 병원으로 달려갔다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0185|딸아이는 저한테 혼나고 나면 엄마한테 달려가요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0186|그릇에 물이 담겨 있어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0187|부모님의 꾸중에는 사랑이 담겨 있다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0188|너는 내가 아는 어떤 사람이랑 많이 닮았어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0189|그들은 아주 친한 사이여서 서로를 닮아 가고 있다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0190|방금 상자에 담아 둔 책이 없어졌어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0191|고객이 감사의 마음을 담은 편지를 보내 왔어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0192|밧줄을 너무 세게 당겨서 끊어졌어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0193|문을 당겨서 여세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0194|내 동생이 어제 교통사고를 당했어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0195|그는 자기 부하들 앞에서 창피를 당했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0196|어느 학교에 다녔어요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0197|학생이세요? 아니면 직장을 다니세요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0198|아버지는 일요일이면 사냥을 다니세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0199|학교 다녀왔어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0200|추석에는 많은 사람들이 고향을 다녀온다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0201|용의자는 부산으로 달아났다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0202|도둑은 개를 보고는 달아났습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0203|신문 좀 내려주실래요? 선반에 손이 안 닿아서요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0204|저희 집은 여기에서 엎어지면 코 닿을 데 있어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0205|창문을 좀 닫아도 될까요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0206|저희 가게는 밤 열 시에 문을 닫습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0207|마음 속으로 생각한 수에 이를 더하세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0208|삼 더하기 사는 칠|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0209|연못에 돌을 던지지 마세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0210|투수는 타자가 아닌 포수에게 공을 던져야 한다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0211|책을 덮으세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0212|컵을 종이로 덮어 두어라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0213|일곱 시쯤에 너를 데리러 갈게.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0214|그는 딸을 데리고 회사에 왔다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0215|이 남자 병원에 데려가야 해.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0216|오늘 여자 친구를 부모님께 데려갈 거야.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0217|집들이 때 회사 사람들 집에 데려와도 돼?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0218|그때 그녀가 의사를 데려오지 않았으면 나는 죽었을 거야.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0219|그녀를 잊는 데에 이 년이 들었어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0220|비타민 씨가 많이 들어 있는 과일을 드세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0221|감기 든 거니?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0222|무거운 것을 들다 허리를 삐끗했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0223|왼손에 우산을 든 여자가 내 아내야.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0224|사무실에 잠깐 들러 주실 수 있으세요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0225|어제 주유소를 들러서 기름을 가득 채웠습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0226|제 말이 들리세요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0227|당신 제안은 흥미롭게 들리네요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0228|눈에 뭔가가 들어갔어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0229|열쇠를 잃어버려서 창문으로 집에 들어갔다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0230|그들의 음모가 드러나고 있다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0231|선반에 손이 안닿아서요|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0232|그녀가 새하얀 이를 드러내면서 웃었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0233|방금 네가 한 말은 너의 무지를 드러내는 거야.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0234|이곳에 들어오시면 안 됩니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0235|오늘은 집으로 일찍 들어와라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0236|길을 잘못 들어선 것 같아요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0237|이 지역에 새 아파트가 여기저기 들어서고 있다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0238|제가 전에 명함을 드렸나요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0239|읽어 드리겠습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0240|나는 문을 열고 교회 안을 들여다봤다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0241|그 사람은 하루 종일 현미경을 들여다봐.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0242|나는 음악을 듣다 잠이 들었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0243|제 말 듣고 계세요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0244|몇 시에 인천에 도착하셨어요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0245|도착하면 알려 줘.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0246|나는 십 년 뒤에는 부자가 될 거야.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0247|저는 친구를 사랑하게 되었어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0248|저는 애완견 돌보는 걸 좋아해요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0249|우리 엄마는 우리를 돌보는 것 때문에 아침부터 밤까지 바빠요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0250|곧장 가다가 왼쪽으로 도세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0251|지구는 태양을 돈다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0252|채널 좀 그만 돌려라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0253|그녀는 나를 보자마자 차의 방향을 돌렸다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0254|여기에서 도망가자.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0255|그는 자기 아내를 죽이고 해외로 도망갔다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0256|뭘 도와 드릴까요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0257|하늘은 스스로 돕는 자를 돕는다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0258|그 사람은 뒤를 돌아보지 않고 차에 올랐다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0259|연말에는 한 해를 돌아볼 필요가 있다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0260|좀전에 할머니가 돌아가셨다는 전화를 받았어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0261|그는 열아홉 살에 한국으로 돌아왔다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0262|환자의 의식이 돌아왔어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0263|제 숙제 좀 도와주세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0264|도와주셔서 고맙습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0265|이 약은 아이들 손이 닿지 않는 곳에 두세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0266|수업 중에 휴대폰을 켜 두지 마세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0267|이 지역 주변을 둘러보고 싶어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0268|그냥 둘러보는 거예요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0269|적군이 그를 둘러쌌다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0270|이 문제를 둘러싸고 많은 논의가 있었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0271|이 얼룩을 없앨 수 있을까요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0272|그렇다면 그 자를 없애!|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0273|이웃집에서 망치를 하나 얻어 와라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0274|서점에서 아이디어는 좀 얻었어?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0275|나쁜 친구와 어울려 다니지 마라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0276|이 넥타이는 당신에게 어울리지 않아요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0277|저는 일요일마다 교회에 갑니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0278|날이 건조해서 농작물이 죽어 가요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0279|상상력을 개발하고 싶으면 시를 읽으세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0280|정부는 이 지역을 관광지로 개발할 계획이라고 발표했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0281|그 옷은 세탁소로 가져가세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0282|개인 물건들을 꼭 가져가십시오.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0283|펜 좀 이리로 가져와라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0284|컴퓨터는 우리 생활에 엄청난 변화를 가져왔다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0285|깜빡 잊고 펜을 안 가지고 왔어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0286|우리 부부는 아이를 갖지 않기로 결정했어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0287|그 책 어디에 감춘 거야?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0288|왜 남자라는 사실을 감추려고 한 겁니까?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0289|이 자리에 와 주신 여러분께 감사드립니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0290|성원에 깊이 감사하고 있습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0291|잠시만 눈 좀 감아 봐.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0292|저는 사진을 찍을 때 한쪽 눈을 감는 버릇이 있어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0293|박스를 끈으로 감아라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0294|실수로 테이프를 너무 많이 감아 버렸다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0295|선생님은 우리들에게 독서의 중요성을 늘 강조하셨어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0296|태권도는 신체뿐만 아니라 마음의 수련을 강조한다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0297|옷을 좀 갈아입고 올게요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0298|그녀는 수영복으로 갈아입은 다음 밖으로 나갔다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0299|제 생각에는 버스를 갈아타는 게 나을 것 같아요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0300|사당역에서 사 호선으로 갈아타세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0301|저는 학생들을 가르치는 일을 좋아합니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0302|외국인에게 태권도를 가르치고 있어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0303|화살표가 북쪽을 가리키고 있다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0304|시계는 일곱 시를 가리키고 있어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0305|그 호텔은 호화로운 시설들을 갖추고 있다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0306|저는 제 자신이 업무에 필요한 모든 자질을 갖추고 있다고 자신합니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0307|감독관이 시험지를 빨리 거둔 것 같아.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0308|시험에서 좋은 성적을 거두려면 최선을 다해야 해.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0309|그는 내게 자신이 그 회사의 사장이라고 거짓말했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0310|거짓말하지 마세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0311|저는 사소한 일은 걱정하지 않으려고 노력합니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0312|저는 걱정하지 마세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0313|옷걸이에 코트를 걸어라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0314|그녀에게 다가가서 말을 걸었습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0315|전화 잘못 거셨어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0316|벽에 많은 옷이 걸려 있다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0317|감기에 걸렸어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0318|끝내려면 두 시간쯤 걸릴 거예요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0319|집에서 회사까지 지하철로 얼마나 걸려요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0320|길을 건너면 은행이 있어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0321|돌다리도 두드려 보고 건너라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0322|보통은 회사에 그냥 걸어가요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0323|저쪽으로 걸어가십시오.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0324|여기까지 걸어왔어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0325|우리가 얼마나 걸어온 거지?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0326|맨발로 걷지 마라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0327|길을 걷다 좋은 생각이 떠올랐어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0328|나무 밑에서 비가 그치기를 기다렸다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0329|나를 보자마자 아기는 울음을 그쳤어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0330|예전 일은 왜 그만두셨어요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0331|저 그만두겠습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0332|저는 방송국에서 근무하고 있습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0333|보통 하루에 몇 시간 근무하세요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0334|그러는 게 좋을 것 같아.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0335|그러지 않겠다고 약속했잖아.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0336|저는 그림을 잘 못 그리지만 그림 그리는 걸 좋아해요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0337|누구를 그리고 계신 거예요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0338|선생님을 만나 뵙기를 기대하고 있습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0339|너무 기대하지 마.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0340|순서를 기다려 주세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0341|친구를 기다리는 중입니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0342|아빠가 결혼기념일을 기억하지 못해?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0343|저를 기억하시겠어요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0344|그 여자 낯은 아주 익은데, 이름이 기억나지 않아요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0345|저 기억나세요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0346|어머님이 기뻐하시겠어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0347|아직 이긴 게 아니니까 기뻐하기에는 이릅니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0348|엄마, 고양이를 기르게 해 주세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0349|턱수염을 기른 적이 있어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0350|집중력을 기르는 것이 공부를 잘하는 비결입니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0351|저는 일기장에 하루 동안 있었던 일을 모두 기록합니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0352|한국의 자동차 산업은 세계 삼 위를 기록하고 있습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0353|몸을 옆으로 기울여 보세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0354|나는 대체로 선생님의 말씀에 주의를 기울이지 않았다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0355|이 라디오 고치는 데 얼마나 걸릴까요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0356|다음 문장에서 틀린 부분을 고치세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0357|밑줄 친 부분을 모두 이탤릭으로 고쳐라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0358|저는 대학에서 국문학을 공부할 거예요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0359|가을은 일 년 중 공부하기에 제일 좋은 계절이다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0360|이 중에서 하나를 고르세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0361|제일 좋은 걸 고르셨어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0362|제 나이를 좀 고려해 주셨으면 좋겠어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0363|모든 점을 고려했을 때 가지 않는 게 낫다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0364|왜 사서 고생해?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0365|여기에 오시느라 고생하지 않으셨어요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0366|부산은 구경할 곳이 많아요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0367|어디를 구경하고 싶으세요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0368|일자리를 구하고 있습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0369|직장은 구하셨어요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0370|그 개는 주인을 구하기 위해 강으로 뛰어들었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0371|그 의사가 그녀의 목숨을 구해 냈다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0372|엄마는 빵을 굽고 계세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0373|나는 소시지를 기름에 튀기는 것보다 석쇠에 굽는 걸 좋아해.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0374|축구는 열한 명으로 구성돼 있습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0375|이 문제 때문에 위원회가 구성됐습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0376|이번 사건은 마약과 관련되어 있다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0377|그 일은 내 동생과 관련돼 있어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0378|내 취미는 길거리의 사람들을 관찰하는 거야.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0379|그 이상한 남자는 개미에 대해 관찰하면서 즐거움을 찾았다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0380|저는 그 사고에 관해 아는 것이 없습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0381|한국에 관한 책들은 어디에 있나요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0382|저는 어렸을 때 많은 어려움을 겪었어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0383|저희 부부는 결혼한 직후에 한 차례 위기를 겪었습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0384|그와 결혼하기로 마음먹었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0385|저희 막 결혼했어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0386|아무 것도 결정된 건 없어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0387|학교 이사회에서 그를 해고하기로 결정됐다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0388|어디로 피서를 갈 지 아직 결정하지 못했어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0389|심사위원들이 그를 우승자로 결정했어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0390|이혼을 결심했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0391|좀 더 다이어트를 엄격하게 하기로 결심했어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0392|이민자들은 육체적, 정신적 고통을 견뎌 왔다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0393|더 이상 못 견디겠어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0394|저는 한국에 오자마자 문화적 충격을 경험했어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0395|그는 한국의 여러 다른 생활방식을 경험할 수 있었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0396|제가 잘못 계산했나 봐요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0397|카드로 계산하겠습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0398|지금 여기에 안 계세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0399|사장님이 기다리고 계십니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0400|엄마는 병원에 누워 계세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0401|우리는 밤새도록 얘기를 계속했습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0402|그는 계속해서 새로운 변명거리를 만들어 냈다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0403|이렇게 무더운 날씨가 오래 계속되지는 않을 거예요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0404|회의가 늦도록 계속됐다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0405|지금 당장은 할 일이 없어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0406|숙제는 언제 할 거니?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0407|이 문제를 해결하기 전에는 집에 못 가.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0408|직장 상사와의 갈등은 어떻게 해결하세요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0409|아내는 나를 보고 기쁨의 눈물을 흘렸다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0410|열쇠를 어디에 흘린 거야?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0411|우리는 탬버린을 흔들면서 같이 노래를 불렀다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0412|그녀는 아니라고 말하는 대신 고개를 흔들었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0413|물은 높은 곳에서 낮은 곳으로 흐른다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0414|시간이 흐르면 괜찮아질 거야.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0415|이 가방 산 걸 후회하고 있어요|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0416|그때 그녀를 차 버린 걸 지금은 후회해요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0417|그들은 영수증을 확인하고 돈을 환불해 주었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0418|예약을 확인하고 싶은데요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0419|빈 방을 창고로 활용하고 있어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0420|성공은 시간을 어떻게 활용하는가에 달려 있다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0421|아빠가 화나신 것 같아.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0422|나한테 화났어?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0423|이 배는 일본을 향하고 있습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0424|창문을 향해 앉아 주세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0425|이번에는 너에게 꼭 이기고 싶어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0426|어려움을 이겨 내지 못하면 성공할 수 없어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0427|그 연극은 이해하기가 어려웠다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0428|교사는 학생들을 이해할 필요가 있습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0429|실은 나 한 달 전에 이혼했어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0430|부모님이 이혼하신 이후로 엄마랑 살고 있어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0431|야, 오랜만이야. 얼굴 잊어버리겠어!|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0432|우산 가져오는 걸 잊어버렸어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0433|만화책 읽는 거 좋아하세요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0434|저는 글을 읽을 줄은 알지만 쓸 줄은 몰라요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0435|편의점에서 일하고 있습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0436|하루에 몇 시간 일해?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0437|한국에 처음 왔을 때 서울에서 길을 잃었습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0438|많은 사람들이 태풍으로 전 재산을 잃었어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0439|이모한테 인사해라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0440|우리 신랑이랑 인사한 적 있어?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0441|어떤 옷을 입어야 해요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0442|교통사고로 가슴에 상처를 입었어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0443|길을 잃어버렸어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0444|여권을 잃어버렸어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0445|자리에서 일어나 대통령을 맞아 주십시오.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0446|무슨 일이 일어난 거야?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0447|일어서서 말씀해 주세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0448|그는 바닥을 짚고 간신히 일어섰다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0449|천천히 몸을 일으켜 보세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0450|너는 왜 늘상 말썽을 일으키니?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0451|수소와 산소가 결합해서 물을 이룬다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0452|저는 작가라는 내 어릴 적 꿈을 이뤘어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0453|축구에서 한 팀은 열한 명으로 이루어진다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0454|꿈은 이루어진다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0455|사실은 시골로 이사하는 게 싫어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0456|내일 이사하신다고 들었어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0457|짧은 끈을 이어서 사용합시다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0458|필기시험에 이어 면접이 있겠습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0459|리모컨은 침대 위에 있어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0460|음악을 듣고 있습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0461|왜 아직 안 자고 깨어 있니?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0462|아침에 너무 바빠서 렌즈 끼는 걸 잊었어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0463|저를 잊지 마세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0464|당신과 더 이상 이야기하고 싶지 않아요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0465|아무한테도 이야기하지 마, 알았지?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0466|그 영화는 특수효과를 많이 이용해 만들어졌다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0467|너는 책을 베개로 이용하는구나.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0468|왜 늦게까지 안 자고 있니?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0469|저는 보통 이십 분 정도 낮잠을 잡니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0470|모든 일이 잘되기를 빈다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0471|공부 잘되고 있어?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0472|그 사람 요리를 잘하는 것 같아.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0473|노래를 정말 잘하시네요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0474|네가 뭘 잘못했는지 몰라?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0475|저는 잘못한 게 없어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0476|계산이 잘못된 것 같은데요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0477|만일 일이 잘못되면, 다 네 탓이야.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0478|잠들었으면 깨우지 마세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0479|요즘 잠들기가 힘들어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0480|잠자는 척하는 게 쉬운 일이 아니야.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0481|잠잘 시간이야.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0482|범인이 누구한테 잡혔어요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0483|경찰에게 잡힌 용의자는 혐의를 부인했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0484|내 손 잡아.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0485|그는 자신이 거의 도둑을 잡을 뻔했다고 말했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0486|머리가 너무 귀찮아. 너무 빨리 자라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0487|저는 부산에서 자랐어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0488|그 여자 자기 딸 자랑하는 데에 질렸어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0489|우리 엄마는 내가 네 살 때 한글을 깨쳤다고 자랑했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0490|머리 잘랐어?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0491|다이아몬드가 단단한 물질을 자르는 데 사용된다는 거 알아?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0492|그 사람은 집이 없는 사람들에게 먹을 것을 무료로 제공하고 있다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0493|그 후보자는 많은 사람들에게 일자리를 제공하겠다고 약속했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0494|나는 주로 학교 생활에 관한 것들을 일기에 적는다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0495|성함을 영어로 적어 주세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0496|누가 낼 건지 가위바위보로 정하자.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0497|약속 장소는 어디로 정했어?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0498|이 서류들을 알파벳 순으로 정리하세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0499|방을 정리하는 데 여러 시간이 걸렸습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0500|부모님께 안부 전해 주세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0501|이 책을 그 사람에게 꼭 몰래 전해야 합니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0502|회사에는 전화했어?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0503|나중에 제가 다시 전화할게요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0504|비에 옷이 다 젖으셨네요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0505|젖은 옷을 말리지 않으면 감기에 걸릴지도 몰라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0506|아버지는 내게 인생을 즐기라고 말씀하시곤 했어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0507|저는 맥주를 즐겨 마십니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0508|올해 들어 범죄가 눈에 띄게 증가했어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0509|이 제품에 대한 수요가 증가하고 있다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0510|벌써 지친 거야?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0511|당신한테 잔소리하는 것도 지쳤어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0512|그는 여자에게 지는 걸 굉장히 싫어한다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0513|내가 게임에서 지다니 믿을 수가 없어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0514|그는 약속을 잘 지키는 사람이다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0515|많은 청년들이 나라를 지키기 위해 자원입대했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0516|어머니는 내가 먹는 것을 말없이 지켜보셨다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0517|형사는 용의자를 주의 깊게 지켜보았다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0518|주저하지 말고 모르는 건 선생님께 질문해라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0519|질문하실 분 계신가요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0520|마지막으로 사람을 본 지 삼 년이 지났다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0521|자리에서 졸다가 한 정거장을 지났어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0522|어떻게 지내니?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0523|아내와 저는 행복하게 잘 지내고 있습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0524|여름 방학이 눈 깜짝할 사이에 지나갔어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0525|이 버스가 종로를 지나갑니까?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0526|모든 것이 잘 진행되고 있어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0527|그 일은 계획한 대로 진행되고 있습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0528|젓가락으로 콩 한 조각 집을 수 있니?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0529|제 노트 좀 집어 주시겠어요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0530|사람들은 뱀을 보고는 비명을 지르기 시작했습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0531|집에 불이 나지 않는 이상은 고함 지르지 마라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0532|교회를 어디에 지을지는 아직 결정되지 않았습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0533|따님 이름은 뭐라고 지었어요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0534|그녀는 억지로 미소를 짓고 있었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0535|화장은 하는 것보다 지우는 게 훨씬 더 중요하다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0536|누군가가 제 전화기의 메시지를 자꾸 지우는 것 같아요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0537|아버지는 포크로 음식을 찍어 먹는 것을 좋아하지 않으세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0538|그 나라에 가려면 지문을 찍어야 한다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0539|여기서 사진 찍어도 됩니까?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0540|나는 여름을 별로 좋아하지 않아.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0541|어느 가수를 제일 좋아하니?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0542|자리에 앉아 졸다가 한 정거장을 지나쳤다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0543|실은 줄곧 졸았어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0544|저는 서울대학교를 졸업했습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0545|졸업하고 나서 뭘 하고 싶어?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0546|경찰이 사건 현장을 조사하고 있어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0547|오늘의 과제는 환경오염에 대해 조사하는 겁니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0548|자동차 조심해.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0549|감기 조심하세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0550|제게 기회를 주셔서 감사합니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0551|저 대신 운전 좀 해 주세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0552|그 사람을 왜 죽인 거야?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0553|시간 죽이려고 영화 보고 있어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0554|일본은 독도를 자기 땅이라고 주장하고 있다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0555|그녀는 자신이 죄가 없다고 주장했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0556|아내가 죽은 지 십 년이 됐어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0557|왜 이렇게 풀이 죽었어?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0558|당신을 위해 뭔가를 준비했어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0559|저는 매일 엄마가 저녁 준비하시는 걸 도와드려요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0560|스웨터가 줄어들었어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0561|한국의 농촌 인구가 줄어들고 있다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0562|소리 좀 줄여 주실래요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0563|운동은 질병의 위험을 줄이기 위해 필요하다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0564|밧줄을 꽉 쥐어라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0565|그는 흥분하여 두 주먹을 불끈 쥐었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0566|요즘에는 아이들의 키도 커지고 덩치도 커졌다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0567|홈쇼핑 사업은 점점 커지고 있다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0568|너 이 다음에 커서 뭐가 되고 싶니?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0569|저는 시골에서 컸어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0570|저는 고양이를 열두 마리 키워요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0571|아버지는 혼자서 나와 형을 키우셨다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0572|어제 한밤중에 갑자기 잠에서 깼습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0573|술이 깬 다음 얘기하자.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0574|실수로 접시를 깼어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0575|걔는 늘 분위기를 깨.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0576|이제서야 제 실수를 깨달았어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0577|나는 내가 그녀를 많이 사랑한다는 걸 깨달았다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0578|사과 깎을 줄 알아?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0579|어제 머리를 깎았어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0580|조금만 깎아 주세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0581|그 사람은 자기 지갑을 꺼내려고 차에 갔어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0582|그는 호주머니에서 반지를 꺼내 내게 청혼했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0583|담배 껐는지 확인해라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0584|방을 나갈 때에는 불을 꺼라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0585|그는 고개를 끄덕이면서 말했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0586|어떤 나라에서는 고개를 끄덕이는 것이 부정을 의미합니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0587|아이가 엄마 소매를 끌었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0588|그 여배우는 늘 사람들의 시선을 끈다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0589|연설이 시간을 오래 끄니까 사람들이 자리를 뜨기 시작했어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0590|갑자기 실이 끊어졌다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0591|전화가 끊어졌어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0592|우리 사이는 끝났어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0593|영화가 끝나 갈 즈음에 잠이 들었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0594|오늘 일은 다 끝냈어?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0595|오늘 안으로 과제를 끝내야 해.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0596|수리공이 실수로 선을 끊어 버린 것 같아.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0597|술 끊었어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0598|전화 끊었다 다시 걸게.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0599|물을 끓인 후에 라면을 넣으세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0600|내가 당신을 위해 커피 끓여 놓았어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0601|저는 집 꾸미는 걸 좋아해요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0602|그거 전부 내가 꾸며 낸 거야.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0603|사람들은 모두 행복해지기를 꿈꾼다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0604|저는 늘 한국에 다시 오는 걸 꿈꿔 왔어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0605|너무 더워서 에어컨을 켰어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0606|가스 레인지 좀 켜 봐.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0607|소영이는 벌써 일을 마치고 집에 돌아갔어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0608|일이 마치면 좀 쉬어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0609|겨우 세 개 맞혔어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0610|내가 그 문제 맞히면 뭐 줄 거야?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0611|안전벨트를 매세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0612|우리 회사에서는 넥타이를 매지 않아도 됩니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0613|싱크대가 막혔어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0614|코가 막혀요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0615|차가 막혀서 늦었습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0616|쥐가 들어오지 못하게 구멍을 막아라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0617|우리 가족 누구도 우리 아버지를 막을 수 없다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0618|들어가지 마십시오.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0619|회사가 결국 망하고 말았다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0620|나한테 네가 원하는 걸 말해 봐.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0621|나는 아내에게 바가지 좀 그만 긁으라고 말했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0622|원하는 게 뭔지 말씀해 보세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0623|어머니는 늘 내게 재혼하지 않겠다고 말씀하셨다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0624|어떻게 이렇게 큰 눈사람을 만들었어?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0625|그는 늘 여자 친구를 질리게 만든다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0626|머리 좀 그만 만져.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0627|만지지 마시오.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0628|이 계약에 만족하실 거라고 확신합니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0629|저는 새 멤버들에게 만족합니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0630|아내와 영화관 앞에서 만나기로 했습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0631|너를 여기서 만나다니 정말 세상 좁구나!|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0632|그 접착제는 아주 빨리 마르고 한 시간만 지나면 굳는다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0633|그 사람 정말 말랐어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0634|살 집은 마련했어?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0635|편하신 때로 자리를 마련하겠습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0636|커피를 마시다 입이 헐었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0637|술을 전혀 못 마셔서 걱정입니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0638|시험이 끝난 후 친구와 답을 맞춰 보았다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0639|자기 전에 알람 시계를 여섯 시에 맞춰라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0640|귀중품은 카운터에 맡기세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0641|그 일은 저한테 맡겨 주세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0642|이거 정말 맞아요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0643|이 옷 너한테 잘 맞을 것 같은데.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0644|어렸을 때, 가끔 아버지한테 매를 맞았어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0645|몇 점 맞았어?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0646|휴일을 맞아 대청소를 했어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0647|손님을 늘 따뜻하게 맞으세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0648|그녀는 그 일을 맡기를 꺼려했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0649|일곱 시까지 가방을 맡아 주실 수 있나요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0650|꽃 향기를 맡아 봐.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0651|저는 축농증이 있어서 냄새를 잘 못 맡아요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0652|아이들에게 너무 많이 먹이지 마십시오.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0653|나는 보통 새벽 세 시에 아기에게 젖을 먹이려고 일어난다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0654|중국 음식을 먹고 싶은데, 넌 어때?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0655|약속을 잊어 먹었어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0656|버스가 횡단보도 앞에서 멈췄다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0657|나는 웃음을 멈출 수가 없었어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0658|어디에 머무르실 건가요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0659|하룻밤 더 머무를 수 있나요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0660|너 미쳤어?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0661|너 때문에 미치겠어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0662|책상을 밀고 있는 중이다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0663|뒤에서 밀지 마세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0664|오늘 할 수 있는 일을 내일로 미루지 마라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0665|책임을 다른 사람에게 미루지 마세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0666|제 말을 믿으셔도 됩니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0667|그 녀석을 믿다니 어리석었구나.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0668|왜 내가 널 미워하겠니?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0669|남편과 저는 서로를 미워해요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0670|그들은 불을 피우기 위해 나무를 모으고 있었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0671|올해에는 돈을 모으고 싶어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0672|우리 클럽은 일주일에 두 번 정기적으로 모입니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0673|시위대가 시청 앞 광장에 모였다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0674|비타민이 모자라면 병에 걸리기 쉽다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0675|거스름돈이 모자란 거 같아요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0676|차를 몰고 오실 건가요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0677|아버지는 스무 살 때부터 버스를 모셨다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0678|저녁마다 아들 녀석이 자기 방에서 뭘 하는지 모르겠어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0679|이 문제에 관해서는 나는 아무것도 몰라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0680|시부모님을 모시고 사세요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0681|손님들을 전철 역까지 모셔 드리세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0682|저는 노래를 잘 못해요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0683|지금은 배가 아파서 아무것도 먹지 못합니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0684|내 여자 친구는 아침에 머리를 안 감으면 머리를 묶고 다닌다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0685|테러리스트들은 인질들의 손과 발을 밧줄로 묶었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0686|어떤 개가 내 다리를 물었어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0687|그는 늘 입에 담배를 물고 일을 합니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0688|테러로 다리가 무너졌다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0689|하늘이 무너져도 솟아날 구멍이 있다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0690|다음 토요일에 우리 집에 올 수 있나 너한테 물어보려고 전화했어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0691|뭐 하나 물어봐도 돼?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0692|내 직장 상사는 내 요구를 무시했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0693|사람들은 다른 사람이 자신을 무시할 때 화가 나는 법이다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0694|너한테 묻고 싶은 게 있어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0695|그걸 왜 물어?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0696|나무에 새싹이 났어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0697|어제 인도네시아에서 지진이 났다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0698|숙제부터 하고 나서 놀아라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0699|그는 신문에 광고를 냈다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0700|답안지를 내세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0701|배송료는 누가 낼 겁니까?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0702|골키퍼가 슛을 막아 냈어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0703|그녀가 손을 내밀어 악수를 청했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0704|창 밖으로 고개를 내밀지 마세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0705|음식물 쓰레기를 바깥에 내놓아라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0706|이 의자 팔려고 내놓은 건가요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0707|비가 내리기 시작했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0708|엘리베이터를 타고 오 층에서 내리세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0709|총을 내려 놓아!|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0710|이번 주말에 집에 내려갈 거야.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0711|최근 물가가 내려갔어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0712|산을 올라가는 것보다 산을 내려가는 게 더 힘들어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0713|요즘 고향으로 내려오는 젊은 사람들이 많다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0714|계단을 내려올 때 발 조심하세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0715|밖에 나가 놀자.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0716|왜 어제 모임을 안 나간 거야?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0717|잘린 게 아냐. 내가 내 발로 회사에서 나간 거지.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0718|새 한 마리가 사무실 건물 위로 날고 있어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0719|누구나 하늘을 날고 싶은 소망이 있지요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0720|메시지를 남기시겠어요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0721|아내를 미국에 남겨 두고 혼자 한국에 왔습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0722|흉터가 남지 않을 거라니 다행이야.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0723|바구니 속에 샌드위치가 남아 있다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0724|우리 그 돈을 반으로 나누자.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0725|친구와 먹을 것을 나눠 먹어라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0726|주말에는 보통 집 밖으로 나오지 않아요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0727|어느 대학 나오셨어요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0728|공부를 계속하려고 직장을 나왔습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0729|어머니의 건강이 점점 나빠지고 있어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0730|시력이 많이 나빠졌어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0731|제비들은 여름이 되면 북쪽으로 날아간다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0732|나는 그 파일이 날아가 버렸음을 알았다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0733|회사에 가려고 집을 나섰다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0734|남의 일에 나서지 마라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0735|아내는 어젯밤 사내 아이를 낳았다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0736|우리 농장의 암탉은 매일 알을 두 개씩 낳는다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0737|폭력은 폭력을 낳는 법입니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0738|그가 파티에 나타나서 깜짝 놀랐다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0739|고양이는 언제나 밥 시간에 딱 맞춰서 나타난다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0740|그는 법정에 모습을 나타내지 않았다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0741|에이치 투 오는 물을 나타내는 기호이다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0742|맥주가 넘쳐요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0743|그들은 자신감이 넘쳤다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0744|이 고개만 넘어가자.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0745|다음 장으로 넘어갑시다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0746|내 생각에는 네가 정도를 넘어선 것 같아.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0747|참을 수 있는 한계를 넘어섰어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0748|그녀는 셔틀콕을 네트 위로 넘기는 데 실패했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0749|페이지를 한 장 넘겨라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0750|벌써 다섯 시가 넘었어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0751|우리는 벌써 예산을 넘었어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0752|강도는 담을 넘어 들어온 게 분명합니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0753|이 옷은 세탁기에 넣지 마세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0754|가득 넣어 주십시오.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0755|그녀는 팔에 심한 통증을 느꼈다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0756|테니스를 시작하고 나서 건강이 훨씬 좋아지는 것을 느끼고 있습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0757|어머니는 나이에 비해 늙어 보이세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0758|할아버지는 그런 일을 하시기에는 너무 늙으셨어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0759|몸무게가 약간 늘었어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0760|아내의 요리 솜씨가 점점 늘고 있어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0761|치마 길이를 조금만 늘리고 싶어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0762|미국이 수출을 늘리기 위해 많은 압력을 가하고 있어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0763|새 셔츠가 늘어나서 속상해요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0764|이혼율이 늘어나고 있다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0765|그 녀석은 수업 시간에 늘상 늦는다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0766|왜 이렇게 늦었어?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0767|책상 위에 놓여 있던 연필 어디 갔어?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0768|그녀의 소식을 들으니 마음이 놓였다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0769|아들 녀석은 인형을 가지고 노는 걸 좋아해요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0770|나는 여자 아이들과 놀 때 마음이 편하다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0771|그의 갑작스러운 청혼에 나는 깜짝 놀랐다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0772|그 소식은 우리를 깜짝 놀라게 했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0773|도둑을 막으려면 담을 높여야 해.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0774|야간에 운전자들은 속도를 높이면 안 된다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0775|나는 춤추는 것보다 노래하는 게 더 좋다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0776|그녀는 밤새 춤추고 노래해도 지치는 법이 없어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0777|정부는 경제 활성화에 노력하고 있습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0778|합격을 위해 정말 열심히 노력했어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0779|접시를 식탁 위에 놓아라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0780|손 놓아!|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0781|창문을 열어 놓으세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0782|제일 좋아하는 연속극을 놓치고 싶지 않아요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0783|좋은 기회를 놓치지 마라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0784|비행기를 놓칠 뻔했어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0785|엄마는 침대에 누워 계신다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0786|오른쪽으로 누우세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0787|외부 전화는 구 번을 누르세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0788|나는 더 이상 화를 누를 수 없었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0789|시간 있으면 제 전시회에 오세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0790|그 사람은 이십 년간 한 회사에서 일해 왔어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0791|엄마가 내게 돌아오라고 외쳤다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0792|누군가 도와 달라고 외치는 것을 들었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0793|삼 층까지 계단을 걸어 올라가세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0794|오늘은 기온이 많이 올라갔다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0795|언제 서울에 올라오셨어요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0796|옥상으로 올라오세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0797|바지 지퍼를 올리세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0798|시험 점수를 빨리 올릴 방법이 없을까?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0799|게시판에 글 좀 올려.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0800|제 짐 좀 방으로 옮겨 주세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0801|아버지께서 저더러 이 캐비닛을 밖으로 옮기라고 하셨어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0802|이 산을 오르는 건 결코 쉽지 않아.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0803|딸 아이가 이번 시험에서 성적이 많이 올랐어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0804|빚을 갚으려고 친구한테 오토바이를 팔았다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0805|저희는 물건을 다발로 팔아요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0806|코스모스는 가을에 펴요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0807|벚꽃이 활짝 폈다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0808|격렬한 운동은 피하셔야 합니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0809|왜 요즘 저를 자꾸 피해요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0810|그가 난로에 불을 피웠다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0811|여기서 담배 피워도 되나요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0812|저는 제게 주어진 일을 절대 쉽게 포기하지 않습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0813|포기하기에는 일러.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0814|그 요금에 아침 식사가 포함되어 있습니까?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0815|통근 수당은 봉급에 포함되어 있습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0816|세금을 포함하는 건가요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0817|우리 가족은 저를 포함해서 모두 여섯 명입니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0818|초대장에서 그 사람 이름을 빼라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0819|십 빼기 팔은 이|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0820|살을 빼는 제일 좋은 방법이 뭘까요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0821|어떻게 그렇게 혼잡한 곳에서 빠져나갔니?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0822|아무도 여기를 빠져나갈 수는 없어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0823|어렸을 때 바다에 빠져 죽을 뻔한 적이 있어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0824|나 사랑에 빠진 것 같아.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0825|요즘 매일 머리가 한 움큼씩 빠져.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0826|내 이름이 합격자 명단에서 빠져 있어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0827|내 아들 녀석은 학교를 자주 빠져요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0828|오늘 치과에서 이를 뽑아서 씹을 수가 없어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0829|이 사람들 중에서 다섯 명만 뽑을 거야.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0830|음식에 후추 좀 그만 뿌려라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0831|향수만 뿌리면 돼.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0832|좌석벨트를 풀어 주십시오|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0833|이 문제를 못 풀겠어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0834|왼쪽 신발 끈이 풀렸어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0835|그 문제는 의외로 쉽게 풀렸어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0836|할아버지 이불 펴 드려라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0837|십 쪽을 펴세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0838|나는 그 애의 책이 책상 위에 펼쳐져 있는 걸 본 적이 없어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0839|부산국제영화제가 시월 이 일부터 시월 팔 일까지 펼쳐질 예정입니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0840|지하철에서는 신문을 펼치고 봐서는 안 된다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0841|두 팀은 막상막하의 경기를 펼쳤습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0842|경상도 남자들은 애정을 잘 표현하지 않아요|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0843|한국어로 제 생각을 표현하는 게 쉽지 않아요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0844|어디에서 우표를 살 수 있습니까?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0845|그는 하루 종일 뭘 먹을지 생각한다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0846|아무리 그 질문에 대해 생각해 봐도 모르겠어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0847|많은 사람들이 그 아이를 천재라고 생각합니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0848|그 남자가 범인으로 생각됩니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0849|아프다고 생각되면 빨리 병원에 가라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0850|좋은 의견이 생각나면 말해 줘.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0851|나는 비만 보면 예전 여자 친구가 생각나.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0852|회사 건너편에 새로 생긴 커피숍 가 봤니?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0853|이 아기는 바비 인형처럼 생겼어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0854|이 지역에 새 아파트가 생겨나고 있다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0855|이 곰팡이는 어디에서 생겨난 거야?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0856|그녀는 길 건너편에 산다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0857|기숙사에서 사는 게 지겨워.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0858|누가 절 살려 주셨어요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0859|다음 대통령이 가장 먼저 해야 할 일은 경제를 살리는 것이다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0860|다른 서랍을 살펴봤어?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0861|비용 문제를 자세히 살펴봐야 한다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0862|그녀가 다른 남자와 같이 있는 걸 상상할 수가 없어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0863|가격은 선생님이 상상하시는 것보다 저렴합니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0864|하루에 수십 개의 언어가 이 땅에서 사라지고 있다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0865|달이 구름 속으로 사라졌다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0866|저는 자유보다 복종을 더 사랑해요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0867|당신을 더 이상 사랑하지 않아.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0868|이것은 무언가를 자르는 데 사용된다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0869|이 방은 응접실로 사용될 겁니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0870|산 지렁이를 미끼로 사용해 봐.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0871|쿠폰을 사용해서 돈을 조금 절약할 수 있었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0872|구석에 서 있지 마세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0873|서울역 가는 버스가 여기 서요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0874|서두르지 않아도 돼.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0875|떠날 채비를 서둘러라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0876|우유랑 버터를 밀가루에 섞으세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0877|제가 카드 섞어요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0878|나는 의사에게 내 증상을 자세히 설명했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0879|좀 더 자세히 설명해 주시겠어요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0880|사업에 성공하려면 우선 자신을 돌봐야 한다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0881|그 영화는 상업적으로 크게 성공했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0882|나는 그녀에게 꽃 한 다발을 선물했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0883|어머니 생신에 뭐 선물할 거니?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0884|직업을 잘 선택하는 것은 중요한 일이다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0885|누구를 선택하시겠어요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0886|사람들을 일렬로 세우는 게 네가 할 일이야.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0887|내 꿈은 언젠가 학교를 세우는 거야.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0888|차를 세우고 물어봐야겠는걸.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0889|요즘 너무 많은 스트레스에 시달리고 있어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0890|오늘 조카들한테 시달려서 몹시 피곤해.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0891|의사 선생님이 운동을 시작하라고 하셨다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0892|영화가 막 시작하려고 합니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0893|회의가 곧 시작돼요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0894|보통 장마가 언제 시작됩니까?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0895|시키는 대로 하는 게 좋을 텐데.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0896|오늘 점심은 시켜 먹읍시다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0897|저녁 식사하셨어요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0898|점심 식사하러 나가죠.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0899|실례합니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0900|실례합니다만 먼저 가 봐야 해서요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0901|이 영화는 상을 받았지만, 흥행에는 실패했어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0902|내가 실패할 줄은 몰랐어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0903|누구나 실수할 수 있다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0904|이메일을 보내다가 실수하신 적이 있습니까?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0905|나는 아버지를 도와 옥수수를 심겠다고 약속했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0906|심은 대로 거둔다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0907|스타킹 위에 양말을 신지 그래?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0908|신발 신는 것 좀 도와 줘.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0909|저는 여자 친구와 쇼핑하는 걸 굉장히 싫어해요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0910|그녀가 나를 싫어하기 때문에 나도 그녀를 싫어한다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0911|그 사람들 지금 트럭에 상자를 싣는 중이라 바빠요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0912|차에 짐 다 실었어?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0913|여러분께 제 어머니를 소개합니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0914|저를 소개하겠습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0915|저는 어느 동아리에도 속해 있지 않아요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0916|그녀는 상당한 미인에 속한다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0917|나한테 소리치지 마.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0918|우리는 도와 달라고 소리쳤다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0919|포장지에 싸 드릴까요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0920|남은 음식 좀 싸 주시겠어요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0921|모니터 위에 먼지가 잔뜩 쌓였어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0922|오늘은 정말 스트레스 쌓여.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0923|최대한 빨리 여기에 통나무를 쌓아라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0924|좋은 작가가 되려면 폭넓은 경험을 쌓는 것이 중요하다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0925|엄마는 나한테 제발 동생과 그만 싸우라고 소리쳤다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0926|뭐 때문에 싸웠어?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0927|파를 썰어서 접시 위에 두어라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0928|치즈 좀 썰어 줄래?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0929|첫 장에 이름 쓰는 거 잊지 마세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0930|저는 이메일보다 편지를 쓰는 걸 더 좋아해요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0931|저는 외출을 할 때 꼭 모자를 씁니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0932|군인은 비가 와도 우산을 쓸 수 없어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0933|얼마 동안 쓰실 건가요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0934|돈을 어디에 다 쓴 거야?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0935|이 돈은 가난한 사람들을 돕는 데 쓰일 거야.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0936|껌 좀 조용히 씹어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0937|음식을 씹은 다음 삼켜라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0938|손 먼저 씻어라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0939|차가운 물로 발을 씻으면 기분이 상쾌해질 거야.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0940|비가 억수같이 쏟아지고 있어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0941|아내가 이혼을 원한다는 말을 듣자 눈물이 쏟아졌다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0942|내 뒤에 얼른 숨어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0943|그는 산속으로 숨어 버렸다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0944|그녀가 좀 쉬어야 한다고 생각합니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0945|오늘은 쉬는 날이야.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0946|우리는 비행기에 타려고 줄을 섰다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0947|저는 운전할 줄은 아는데 자전거를 탈 줄은 몰라요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0948|뭔가 타고 있는 것 같아요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0949|고기가 다 타서 먹을 수가 없었죠.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0950|한국에서는 태어나면 곧바로 한 살이에요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0951|저는 미국에서 태어났지만 한국에서 자랐어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0952|버스는 이미 승객들을 가득 태우고 있었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0953|나 좀 태워 줘요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0954|산에서 쓰레기를 태우는 건 아주 위험해요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0955|너는 늘 밥을 태우는구나.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0956|여기저기서 폭탄이 터졌다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0957|사람들이 전쟁이 터질 때를 대비해서 물건을 사재기하고 있습니다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0958|개를 보자마자 핸들을 왼쪽으로 틀려고 했지만 이미 늦었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0959|선풍기 틀어도 괜찮으시겠어요?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0960|내 생각엔, 네 답이 틀린 것 같은데.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0961|한국어 시험에서 두 문제를 틀렸어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0962|나무는 전기가 안 통해요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0963|시행착오를 통해 배우는 것도 나쁘지 않아.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0964|이 부분은 뜻이 안 통하는 것 같은데.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0965|엄마는 포도를 따고 계세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0966|이 캔 좀 따 줘.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0967|그 남자는 자기 아이를 때렸다는 이유로 고소를 당했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0968|선생님이 회초리로 손바닥을 때리셨어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0969|이 길을 따라가세요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0970|토론에서는 그 여자를 따라갈 사람이 없어.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0971|저를 따라오십시오.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0972|수학이라면 저를 따라올 사람이 없어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0973|총에서 손을 떼라.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0974|나는 그 아름다운 여인에게서 눈을 뗄 수가 없었다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0975|왜 떨고 있어?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0976|다리 좀 떨지 마.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0977|놀라서 목소리가 떨리기 시작했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0978|시험 보기 전이면 항상 이렇게 떨려.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0979|그 사람 어디로 떠난 거야?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0980|좋은 추억을 많이 가지고 한국을 떠나셨으면 좋겠네요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0981|해외여행을 떠나려면 준비할 게 많아.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0982|행복했던 시절을 떠올리면 미소가 지어진다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0983|그 사람을 볼 때마다 내 예전 남자 친구를 떠올리게 돼.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0984|해는 동쪽에서 떠오른다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0985|좋은 생각이 떠올랐다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0986|말에서 떨어져서 왼팔이 부러졌어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0987|딸아이가 입학시험에 떨어졌어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0988|연료가 다 떨어져 가.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0989|무언가가 표면에 떠 다닌다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0990|태양은 동쪽에서 떠서 서쪽으로 진다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0991|눈을 뜨고 나를 봐요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0992|아침 일곱 시에 눈을 떴어요.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0993|아줌마는 결혼한 여자를 뜻한다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0994|이 문장은 무엇을 뜻합니까?|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0995|걷지 말고 뛰어!|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0996|모든 사람들이 출구를 향해 뛰기 시작했다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
+101_0997|그녀는 육상 선수였기 때문에 굉장히 높이 뛸 수 있다.|101|others|SD|neutral|4|5|neutral|4|5|neutral|5|5|neutral|5|5|neutral|5|5
